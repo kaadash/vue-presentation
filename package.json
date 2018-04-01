@@ -1,0 +1,12 @@
+{
+  "name": "vue-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve -s -p 5001."
+  },
+  "devDependencies": {
+    "serve": "^6.5.2"
+  }
+}
